@@ -30,6 +30,28 @@ O projeto final terá a seguinte estrutura de arquivos:
     └── produto_sql.py   # Constantes com os comandos SQL
 ```
 
+## 0. Fazendo um Fork do Projeto
+
+1.   Acesse o repositório deste projeto no GitHub;
+2.   Clique no botão "Fork" no canto superior direito para criar uma cópia do repositório na sua conta;
+3.   Clone o repositório forkado para sua máquina local usando o comando:
+
+```bash
+git clone <URL_DO_SEU_FORK> 
+```
+
+4.   Navegue até o diretório do projeto:
+
+```bash
+cd <NOME_DO_DIRETÓRIO>
+```
+
+5. Abra o Visual Studio Code nesse diretório:
+
+```bash
+code .
+```
+
 ## 1. Instalando as Dependências
 
 Antes de começar, precisamos instalar as bibliotecas necessárias. Crie um arquivo chamado `requirements.txt` na raiz do projeto com o seguinte conteúdo:
@@ -613,6 +635,6 @@ Agora você deverá escolher uma entidade qualquer relacionada a seu projeto int
 
 ## 9. Conclusão
 
-Ao fim da atividade, envie-a para o GitHub e me mande o link do repositório pelo grupo do Telegram, **no privado**. 
+Ao fim da atividade, atualize o repositório GitHub e me mande o link do repositório pelo grupo do Telegram, **no privado**. 
 
 Bom trabalho!
